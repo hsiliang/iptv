@@ -24,10 +24,10 @@ http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA445985604459856
 rtmp://59.124.75.138/sat/tv111
 
 #EXTINF:-1 tvg-id="6036" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" ,國家地理
-http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 
 #EXTINF:-1 tvg-id="6039" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" ,動物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
 #EXTINF:-1 tvg-id="6045" tvg-name="八大第一" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" , 八大第一
 http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
