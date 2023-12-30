@@ -50,7 +50,7 @@ rtmp://59.124.75.138/sat/tv421
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-id="6071" tvg-name="民視新聞" ,民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" tvg-id="" tvg-name="非凡新聞" ,非凡新聞
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" tvg-id="" tvg-name="058非凡新聞" ,058非凡新聞
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-id="6143" tvg-name="台視新聞" ,台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -60,7 +60,7 @@ http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8?blog.ntn
 rtmp://59.124.75.138/sat/tv761
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" tvg-id="6085" tvg-name="AXN" ,AXN
 http://61.219.170.95:18548/.m3u8
-#EXTINF:-1 tvg-id="051" tvg-name="東森新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" , 東森新聞
+#EXTINF:-1 tvg-id="" tvg-name="051東森新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" , 051東森新聞
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" ,東森財經新聞
 http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
