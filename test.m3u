@@ -48,9 +48,11 @@ http://61.219.170.95:18521/.m3u8
 rtmp://59.124.75.138/sat/tv421
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" tvg-id="6073" tvg-name="TVBS新聞台" ,TVBS新聞台
 rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-id="6071" tvg-name="民視新聞台" ,民視新聞台
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-id="6071" tvg-name="民視新聞" ,民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-id="6143" tvg-name="台視新聞台" ,台視新聞台
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" tvg-id="" tvg-name="非凡新聞" ,非凡新聞
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-id="6143" tvg-name="台視新聞" ,台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg" tvg-id="" tvg-name="中天新聞台" ,中天新聞台
 http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8?blog.ntnas.top
