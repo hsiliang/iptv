@@ -17,7 +17,7 @@ rtmp://59.124.75.138/sat/tv071
 #EXTINF:-1 tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" ,中視
 rtmp://59.124.75.138/sat/tv091
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8f535094-4247-4231-82fd-6de1b26cd638.jpg" ,059中視新聞
+#EXTINF:-1 tvg-id="154" tvg-name="中視新聞台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8f535094-4247-4231-82fd-6de1b26cd638.jpg" ,中視新聞台
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" ,華視
