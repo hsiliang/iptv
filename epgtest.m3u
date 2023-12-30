@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,壹電視新聞台
- http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1,公視
+
+#EXTINF:-1,公视
  http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1,民視
  http://seb.sason.top/ptv/ftv.php?id=ms
