@@ -37,6 +37,8 @@ http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=1
 http://61.219.170.95:18560/.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" tvg-id="6051" tvg-name="東森超視" ,東森超視
 http://61.219.170.95:18555/.m3u8
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/87951ded-7fc9-4aaf-99d4-195feb3a4027.jpg" tvg-id="6051" tvg-name="東森幼幼" ,東森幼幼
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png" tvg-id="6056" tvg-name="年代MUCH" ,年代MUCH
 http://61.219.170.95:18558/.m3u8
 #EXTINF:-1 tvg-id="6063" tvg-name="JET綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" , JET綜合
