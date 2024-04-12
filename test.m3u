@@ -2,8 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-id="6067" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" ,壹電視新聞台
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" ,公視
 http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
@@ -15,13 +14,12 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 rtmp://59.124.75.138/sat/tv071
 
 #EXTINF:-1 tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" ,中視
-rtmp://59.124.75.138/sat/tv091
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 
-#EXTINF:-1 tvg-id="154" tvg-name="中視新聞台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8f535094-4247-4231-82fd-6de1b26cd638.jpg" ,中視新聞台
-http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" ,華視
-rtmp://59.124.75.138/sat/tv111
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 #EXTINF:-1 tvg-id="6036" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" ,國家地理
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
@@ -48,17 +46,31 @@ http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-id="6057" tvg-name="中天娛樂台" ,中天娛樂台
 http://61.219.170.95:18521/.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" tvg-id="6060" tvg-name="TVBS歡樂台" ,TVBS歡樂台
-rtmp://59.124.75.138/sat/tv421
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" tvg-id="6073" tvg-name="TVBS新聞台" ,TVBS新聞台
-rtmp://59.124.75.138/sat/tv551
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="中視新聞台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8f535094-4247-4231-82fd-6de1b26cd638.jpg" ,中視新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-id="6071" tvg-name="民視新聞" ,民視新聞
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" ,寰宇新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" tvg-id="" tvg-name="058非凡新聞" ,058非凡新聞
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-id="6143" tvg-name="台視新聞" ,台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg" tvg-id="" tvg-name="中天新聞台" ,中天新聞台
-http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8?blog.ntnas.top
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" , 三立新聞
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-name="SETiNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" , SETiNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" , 新唐人亞太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/3be518e6-3806-483c-af88-57002186ddea.jpg" , 國會頻道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/bd463ab6-290b-442f-bc90-a1096d5dd6c9.jpg" , 國會頻道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg" tvg-id="#N/A" tvg-name="MoMo綜合台" ,MoMo綜合台
 rtmp://59.124.75.138/sat/tv761
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" tvg-id="6085" tvg-name="AXN" ,AXN
@@ -66,7 +78,7 @@ http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="051東森新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" , 051東森新聞
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" ,東森財經新聞
-http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-logo="https://www.ettvamerica.com/Images/News/ETTVLogo.png" tvg-id="" tvg-name="東森美洲台" ,東森美洲台
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" tvg-id="6088" tvg-name="緯來育樂" ,緯來育樂
@@ -114,9 +126,9 @@ https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/120px-Now_News_logo.svg.png" tvg-id="#N/A" tvg-name="Now新聞台" ,Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="鳳凰中文" ,鳳凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="鳳凰資訊" ,鳳凰資訊
-http://php.17186.eu.org/phtv/fhzx.m3u8
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" tvg-id="#N/A" tvg-name="澳視澳門" ,澳視澳門
 http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" tvg-id="#N/A" tvg-name="澳門Macau" ,澳門Macau
@@ -125,12 +137,14 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.4/ch2/ch2.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳門蓮花" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" , 澳門蓮花
 http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-id="" tvg-name="八度空間" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png" , 八度空間
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/220px-Al-Arabiya_new_logo.svg.png" , Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" , ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" , ABC TV
-https://c.mjh.nz/3201026102E1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_east.png" tvg-id="" tvg-name="NBC_NEWSNOW" , NBC News Now
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FoxLiveNow" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" , FoxLiveNow
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CTV_News.svg/440px-CTV_News.svg.png" , CTV News
@@ -138,11 +152,11 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 #EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" , Euronews English
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" , DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" , Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" , France24
-http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" , Bloomberg TV US
 https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7NN" tvg-logo="https://7nn.tv/wp-content/uploads/2019/05/logo300-e1647465954950.png" , 7 Noticias
@@ -165,26 +179,27 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-news-24-jp.png" tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" , 日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/1920px-ANN_logo.svg.png" tvg-name="ANN NEWS" , ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" , Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/320px-KBS_1_logo.svg.png" , KBS1
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kbs2.png/320px-Kbs2.png" , KBS2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/KBS_News_2021-23.png/revision/latest/scale-to-width-down/1000?cb=20230819111424" , KBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" , KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" , Al Jazeera Arabic
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" , Al Jazeera English
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Channel_NewsAsia_Horizontal.svg/revision/latest/scale-to-width-down/350?cb=20190331173556" , CNA International
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="6023" tvg-name="CNN" , CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSEast.us" tvg-name="CBS_NEWS" , CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_east.png" tvg-id="" tvg-name="NBC_NEWSNOW" , NBC News Now
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/220px-NTD_Logo_with_symbol.svg.png" , NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
@@ -196,17 +211,34 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" , CCTV1综合
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" , CCTV4中文国际
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9记录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" , CCTV9记录
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" , CCTV10科教
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" , CCTV13新闻
-https://pi.0472.org/tv/startv.php?auth=231110
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" , CCTV15音乐
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" , 北京卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512034324556.jpg",北京新闻
+https://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" , 浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" , 江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" , CCTV风云音乐
 http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" , CCTV央视台球
@@ -214,18 +246,10 @@ http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" , CCTV世界地理
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 
-
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" , 北京卫视
-http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" , 湖南卫视
 http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" , 江苏卫视
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" , 浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" , 广东卫视
 http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
@@ -275,11 +299,4 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" , 第一财经
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
-
-
-
-
-
-
-
 
