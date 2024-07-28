@@ -126,7 +126,7 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="鳳凰中文" ,鳳凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="鳳凰資訊" ,鳳凰資訊
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" tvg-id="#N/A" tvg-name="澳視澳門" ,澳視澳門
 http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" tvg-id="#N/A" tvg-name="澳門Macau" ,澳門Macau
@@ -201,6 +201,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/220px-NTD_Logo_with_symbol.svg.png" , NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" , Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" , bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220621T075734.png" , Clarity 4K
@@ -209,10 +211,13 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" , CCTV1综合
-http://114.254.89.70:2222/udp/239.3.1.129:8008
+http://144.255.44.69:4022/udp/239.21.1.120:5002
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" , CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" , CCTV5+
+http://144.255.44.69:4022/udp/239.21.1.142:5002
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9记录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" , CCTV9记录
 http://114.254.89.70:2222/udp/239.3.1.62:8112
