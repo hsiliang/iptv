@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml, https://epg.pw/xmltv/epg_lite.xml, https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml, https://epg.112114.xyz/pp.xml"
 
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="綜合", 民視
