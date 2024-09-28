@@ -101,3 +101,6 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://camo.githubusercontent.com/e88c8a6148fdf748ad3a6ba9b390331c2273d72f3441f362688529e3f7e0e6b9/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67" group-title="其他", Россия-24
 https://player.smotrim.ru/iframe/stream/live_id/21
+
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="央视", CCTV 电视指南
+http://61.190.129.195:8686/rtp/238.1.79.53:4560
