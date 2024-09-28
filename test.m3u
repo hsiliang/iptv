@@ -546,10 +546,10 @@ https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000006000233002
 https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000006000268004
 
 #EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="央视", CCTV 世界地理
-http://60.10.225.157:555/rtp/239.253.92.131:6113
+http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
 
 #EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视", CCTV 央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN
 https://pix.my.zhoujie218.top:8443/itv/hnbblive/7745129417417101820
