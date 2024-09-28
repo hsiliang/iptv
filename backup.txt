@@ -1,0 +1,79 @@
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1
+https://pix.my.zhoujie218.top:8443/itv/wasusyt/6000000001000029752
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000023315
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3
+https://pix.my.zhoujie218.top:8443/itv/wasusyt/6000000001000022313
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4 50 FPS" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视", CCTV 4
+https://pix.my.zhoujie218.top:8443/itv/bestzb/5000000011000031102
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000005000025222
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
+https://pix.my.zhoujie218.top:8443/itv/wasusyt/6000000001000015875
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000001737
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视", CCTV 7
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000024341
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视", CCTV 8
+https://pix.my.zhoujie218.top:8443/itv/wasusyt/6000000001000001070
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视", CCTV 9
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000014583
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视", CCTV 10
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000023734
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11 50 FPS" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视", CCTV 11
+https://pix.my.zhoujie218.top:8443/itv/bestzb/5000000011000031106
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视", CCTV 12
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000032494
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13 50 FPS" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视", CCTV 13
+https://pix.my.zhoujie218.top:8443/itv/bestzb/5000000011000031108
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视", CCTV 14
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000001000008170
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15 50 FPS" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视", CCTV 15
+https://pix.my.zhoujie218.top:8443/itv/bestzb/5000000011000031109
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000006000233002
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000006000268004
+
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="央视", CCTV 世界地理
+http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
+
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视", CCTV 央视台球
+http://61.190.129.195:8686/rtp/238.1.79.59:4608
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN
+https://pix.my.zhoujie218.top:8443/itv/hnbblive/7745129417417101820
+
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 记录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="央视", CGTN 记录
+https://pix.my.zhoujie218.top:8443/itv/hnbblive/7114647837765104058
+
+#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视", 中国教育电视台 1
+https://pix.my.zhoujie218.top:8443/itv/bestzb/5000000002000002652
+
+
+
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="其他", Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1920px-BBC_Earth_2023.svg.png" group-title="其他", BBC Earth
+https://g1z1.short.gy/BBCEARTH
+
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" group-title="其他", BBC News
+https://g1z1.short.gy/BBCNEWS
