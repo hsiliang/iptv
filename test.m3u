@@ -383,6 +383,26 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="其他", 國會頻道2
 https://gat.zhoujie218.top/litv/4gtv-4gtv085
 
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="其他", 緯來精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="其他", 緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="其他", 緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="其他", 緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+
+#EXTINF:-1 tvg-id="八大第1台" tvg-name="八大第1台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/f6597cbc-899b-4e9b-89ba-06e44432c175.jpg" group-title="其他", 八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="其他", 東森超視
+rtmp://f13h.mine.nu/sat/tv331
+
+
+
 
 
 
@@ -437,7 +457,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png" group-title="其他", CINEMA
 Xhttps://epg.pw/stream/d531962a86abaa2e92d2c5701fb1ec7de8fcf5e62a266ba04fa349247a0b5fcd.ctv
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="其他", HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/cacd11e0-5381-4e15-b853-0e88b2bb1a0d.jpg" group-title="其他", HBO
 http://125.227.210.55:8153/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://media-prod.press.discovery.com/ugc/networks/sidebar/logo-dsc-hd_____.png" group-title="其他", Discovery HD
@@ -459,7 +479,7 @@ https://tinyurl.com/PhAXN
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="其他", Animal Planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+http://61.221.215.25:8800/hls/57/index.m3u8
 
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="其他", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -470,14 +490,8 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/320px-Discovery_Science_-_Logo_2012.svg.png" group-title="其他", Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="其他", Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
-
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1920px-BBC_Earth_2023.svg.png" group-title="其他", BBC Earth
-https://g1z1.short.gy/BBCEARTH
-
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" group-title="其他", BBC News
-https://g1z1.short.gy/BBCNEWS
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="其他", AMC
+http://61.221.215.25:8800/hls/43/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="其他", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
