@@ -559,40 +559,40 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
 http://61.190.129.195:8686/rtp/238.1.78.178:7296
 
-#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png" group-title="央视", CCTV 风云剧场
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视", CCTV 风云剧场
 http://61.190.129.195:8686/rtp/238.1.79.62:4632
 
 #EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV 兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png" group-title="央视", CCTV 兵器科技
 http://61.190.129.195:8686/rtp/238.1.79.56:4584
 
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png" group-title="央视", CCTV 第一剧场
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视", CCTV 第一剧场
 http://61.190.129.195:8686/rtp/238.1.79.63:4640
 
 #EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV 风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视", CCTV 风云足球
 http://61.190.129.195:8686/rtp/238.1.79.57:4592
 
-#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV 高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="央视", CCTV 高尔夫网球
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV 高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视", CCTV 高尔夫网球
 http://61.190.129.195:8686/rtp/238.1.79.58:4600
 
-#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV 风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png" group-title="央视", CCTV 风云音乐
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV 风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视", CCTV 风云音乐
 http://61.190.129.195:8686/rtp/238.1.79.64:4648
 
-#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVnxss.png" group-title="央视", CCTV 女性时尚
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视", CCTV 女性时尚
 http://61.190.129.195:8686/rtp/238.1.79.55:4576
 
-#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png" group-title="央视", CCTV 怀旧剧场
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视", CCTV 怀旧剧场
 http://61.190.129.195:8686/rtp/238.1.79.61:4624
 
-#EXTINF:-1 tvg-id="CCTV-文化精品" tvg-name="CCTV 文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVwhjp.png" group-title="央视", CCTV 文化精品
+#EXTINF:-1 tvg-id="CCTV-文化精品" tvg-name="CCTV 文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视", CCTV 文化精品
 http://61.190.129.195:8686/rtp/238.1.79.54:4568
 
 #EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="央视", CCTV 电视指南
 http://61.190.129.195:8686/rtp/238.1.79.53:4560
 
-#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="央视", CCTV 世界地理
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视", CCTV 世界地理
 http://61.190.129.195:8686/rtp/238.1.79.60:4616
 
-#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视", CCTV 央视台球
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视", CCTV 央视台球
 http://61.190.129.195:8686/rtp/238.1.79.59:4608
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN
