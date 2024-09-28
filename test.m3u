@@ -382,35 +382,56 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="其他", 國會頻道2
 https://gat.zhoujie218.top/litv/4gtv-4gtv085
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png" group-title="其他", TLC
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="其他", Animal Planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="其他", CNA
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/100px-Discovery_Asia_logo.svg.png" group-title="其他", Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="其他", 無線新聞台
+http://live.cooltv.top/tv/tvb.php?id=0
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/320px-Discovery_Science_-_Logo_2012.svg.png" group-title="其他", Discovery Science
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他", 鳳凰衛視資訊台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="其他", Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="其他", 鳳凰衛視中文台
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1920px-BBC_Earth_2023.svg.png" group-title="其他", BBC Earth
-https://g1z1.short.gy/BBCEARTH
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="其他", 澳視澳門
+http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" group-title="其他", BBC News
-https://g1z1.short.gy/BBCNEWS
+#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="其他", 澳視葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="其他", CNN
-https://g1z1.short.gy/CNN
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://camo.githubusercontent.com/16f3d41647739d9fc307b70781b4bb727e4f894bb99e113e9f3c5366e64cac08/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67" group-title="其他", La 1
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://en.wikipedia.org/wiki/NHK_World-Japan#/media/File:NHK_World.svg" group-title="其他", NHK World
-https://g1z1.short.gy/NHKWorld
+#EXTINF:-1 tvg-id="24h.es" tvg-name="TVE 24h" tvg-logo="https://camo.githubusercontent.com/de62fdd2338dd0f91656abcd58f5fba93f77766fa59287272130f4b782c72ace/68747470733a2f2f692e696d6775722e636f6d2f5a4b52326a4b722e706e67" group-title="其他", TVE 24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="其他", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="KCTV.kp" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="其他", KCTV
+https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://camo.githubusercontent.com/2a3434caf838956084209de5743a5942951f07e2b9a1af3125943702bed51d9b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32362f4c6f676f5f6f665f7468655f4b6f7265616e5f43656e7472616c5f54656c65766973696f6e2e7376672f36343070782d4c6f676f5f6f665f7468655f4b6f7265616e5f43656e7472616c5f54656c65766973696f6e2e7376672e706e67" group-title="其他", NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BPS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/320px-NHK_BSP4K_2023_logo.svg.png" group-title="其他", NHK BPS4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/NHK_Educational_TV_logo.png" group-title="其他", NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/320px-NHK_General_TV_logo.svg.png" group-title="其他", NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/67px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="其他", TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-name="BS Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BS_FUJI_Logo.jpg/320px-BS_FUJI_Logo.jpg" group-title="其他", BS Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/320px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="其他", BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png" group-title="其他", CINEMA
 Xhttps://epg.pw/stream/d531962a86abaa2e92d2c5701fb1ec7de8fcf5e62a266ba04fa349247a0b5fcd.ctv
@@ -433,42 +454,38 @@ https://tinyurl.com/ms2kj9hu
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/263px-AXN_logo.svg.png" group-title="其他", AXN
 https://tinyurl.com/PhAXN
 
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="其他", 無線新聞台
-http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png" group-title="其他", TLC
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他", 鳳凰衛視資訊台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="其他", Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="其他", 鳳凰衛視中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="其他", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="其他", 澳視澳門
-http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/100px-Discovery_Asia_logo.svg.png" group-title="其他", Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
-#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="其他", 澳視葡文
-http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/320px-Discovery_Science_-_Logo_2012.svg.png" group-title="其他", Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="其他", KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="其他", Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 
-#EXTINF:-1 tvg-id="NHK BPS4K" tvg-name="NHK BPS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/320px-NHK_BSP4K_2023_logo.svg.png" group-title="其他", NHK BPS4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1920px-BBC_Earth_2023.svg.png" group-title="其他", BBC Earth
+https://g1z1.short.gy/BBCEARTH
 
-#EXTINF:-1 tvg-id="NHK E" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/NHK_Educational_TV_logo.png" group-title="其他", NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" group-title="其他", BBC News
+https://g1z1.short.gy/BBCNEWS
 
-#EXTINF:-1 tvg-id="NHK G" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/320px-NHK_General_TV_logo.svg.png" group-title="其他", NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="其他", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/67px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="其他", TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="ערוץ 13	" tvg-logo="https://camo.githubusercontent.com/05a6f7d4faa85d4118f63b718f836be4aa1bea26d83c1df8f6a03d56c44b9daf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f68652f7468756d622f312f31372f52657368657431334c6f676f323032322e7376672f35353970782d52657368657431334c6f676f323032322e7376672e706e67" group-title="其他", ערוץ 13	
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
-#EXTINF:-1 tvg-id="BS Fuji TV" tvg-name="BS Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BS_FUJI_Logo.jpg/320px-BS_FUJI_Logo.jpg" group-title="其他", BS Fuji TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-
-#EXTINF:-1 tvg-id="BS TV Tokyo" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/320px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="其他", BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://camo.githubusercontent.com/e88c8a6148fdf748ad3a6ba9b390331c2273d72f3441f362688529e3f7e0e6b9/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67" group-title="其他", Россия-24
+https://player.smotrim.ru/iframe/stream/live_id/21
 
 
 
@@ -673,3 +690,19 @@ https://pix.my.zhoujie218.top:8443/itv/wasusyt/6000000003000004748
 
 #EXTINF:-1 tvg-id="纯享-4K" tvg-name="纯享 4K" tvg-logo="https://assets.livednow.com/logo/纯享-4K.png" group-title="其他", 纯享 4K
 https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000004000011651
+
+#EXTINF:-1 group-title="卫视" tvg-id="河源综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0611/20160611061323486.jpg",河源综合频道
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+
+#EXTINF:-1 group-title="卫视" tvg-id="广州电视台新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042622928.jpg",广州电视台新闻频道
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+
+#EXTINF:-1 group-title="卫视" tvg-id="延边卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/162de1a70b0fd0924285f87d70ff8c2c.jpg",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="乌兰察布新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1228/smallbdcfcaaf48c594afc49f6184936c26c41577546426.jpg",乌兰察布新闻综合频道
+https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8?_upt=055343981725352740
+
