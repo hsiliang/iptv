@@ -77,3 +77,27 @@ https://g1z1.short.gy/BBCEARTH
 
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" group-title="其他", BBC News
 https://g1z1.short.gy/BBCNEWS
+
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France24" tvg-logo="https://camo.githubusercontent.com/ecc886a91b5bdc93f4fa993eb8b770a332b0e0ddd58bb381337177dc8e576b7f/68747470733a2f2f692e696d6775722e636f6d2f36314d536971392e706e67" group-title="其他", France24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="其他", DMA
+Xhttps://dplus.gammacdn.workers.dev/videos/109.m3u8
+
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="其他", ESPN2
+https://tinyurl.com/ms2kj9hu
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/263px-AXN_logo.svg.png" group-title="其他", AXN
+https://tinyurl.com/PhAXN
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/320px-Cinemax.svg.png" group-title="其他", CINEMA
+Xhttps://epg.pw/stream/d531962a86abaa2e92d2c5701fb1ec7de8fcf5e62a266ba04fa349247a0b5fcd.ctv
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/cacd11e0-5381-4e15-b853-0e88b2bb1a0d.jpg" group-title="其他", HBO
+http://125.227.210.55:8153/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="ערוץ 13	" tvg-logo="https://camo.githubusercontent.com/05a6f7d4faa85d4118f63b718f836be4aa1bea26d83c1df8f6a03d56c44b9daf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f68652f7468756d622f312f31372f52657368657431334c6f676f323032322e7376672f35353970782d52657368657431334c6f676f323032322e7376672e706e67" group-title="其他", ערוץ 13	
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://camo.githubusercontent.com/e88c8a6148fdf748ad3a6ba9b390331c2273d72f3441f362688529e3f7e0e6b9/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67" group-title="其他", Россия-24
+https://player.smotrim.ru/iframe/stream/live_id/21
