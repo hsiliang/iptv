@@ -389,16 +389,16 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv085
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="其他", 無線新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他", 鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他", 鳳凰衛視資訊台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="其他", 鳳凰衛視中文台
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="其他", 鳳凰衛視中文台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="其他", 澳視澳門
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳視澳門" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="其他", 澳視澳門
 http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="其他", 澳視葡文
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳視葡文" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="其他", 澳視葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://camo.githubusercontent.com/16f3d41647739d9fc307b70781b4bb727e4f894bb99e113e9f3c5366e64cac08/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67" group-title="其他", La 1
@@ -443,7 +443,7 @@ http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://media-prod.press.discovery.com/ugc/networks/sidebar/logo-dsc-hd_____.png" group-title="其他", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://camo.githubusercontent.com/ecc886a91b5bdc93f4fa993eb8b770a332b0e0ddd58bb381337177dc8e576b7f/68747470733a2f2f692e696d6775722e636f6d2f36314d536971392e706e67" group-title="其他", France24
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France24" tvg-logo="https://camo.githubusercontent.com/ecc886a91b5bdc93f4fa993eb8b770a332b0e0ddd58bb381337177dc8e576b7f/68747470733a2f2f692e696d6775722e636f6d2f36314d536971392e706e67" group-title="其他", France24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="其他", DMA
