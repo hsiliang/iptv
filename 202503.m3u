@@ -1,108 +1,106 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml, https://epg.112114.xyz/pp.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml"
 
-
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="台灣", 中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="台灣",中視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="台灣", 三立新聞
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="台灣",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS-新聞台
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣",TVBS-新聞台
 http://125.227.210.55:8186/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBS-NEWS" tvg-name="TVBS-NEWS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS-NEWS
+#EXTINF:-1 tvg-id="TVBS-NEWS" tvg-name="TVBS-NEWS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣",TVBS-NEWS
 http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣", 台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣", 非凡新聞台
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣",非凡新聞台
 rtmp://f13h.mine.nu/sat/tv581
 
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣",華視
 rtmp://f13h.mine.nu/sat/tv111
 
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣", 台視
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣",台視
 rtmp://f13h.mine.nu/sat/tv071
 
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣", TVBS
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="台灣", 緯來日本
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="台灣",緯來日本
 rtmp://f13h.mine.nu/sat/tv771
 
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="台灣", 緯來育樂
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="台灣",緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
 
-#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="台灣", 緯來精采
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="台灣",緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2.png" group-title="台灣", 緯來體育
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2.png" group-title="台灣",緯來體育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://assets.livednow.com/logo/緯來電影.png" group-title="台灣", 緯來電影
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://assets.livednow.com/logo/緯來電影.png" group-title="台灣",緯來電影
 http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="台灣", HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="台灣",HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030633323271_63.png" group-title="台灣", CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030633323271_63.png" group-title="台灣",CINEMAX
 http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 
-#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="台灣", 東森超視
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="台灣",東森超視
 rtmp://f13h.mine.nu/sat/tv331
 
-#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://ia802309.us.archive.org/34/items/20230102_20230102_1615/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台灣", 中天娛樂台
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://ia802309.us.archive.org/34/items/20230102_20230102_1615/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台灣",中天娛樂台
 http://61.221.215.25:8800/hls/47/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS-歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="台灣", TVBS-歡樂台
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS-歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="台灣",TVBS-歡樂台
 http://125.227.210.55:8187/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="國際", BBC World News
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="國際",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="國際", ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="國際",ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="國際", CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="國際",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://camo.githubusercontent.com/16f3d41647739d9fc307b70781b4bb727e4f894bb99e113e9f3c5366e64cac08/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67" group-title="西班牙", La 1
+#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://camo.githubusercontent.com/16f3d41647739d9fc307b70781b4bb727e4f894bb99e113e9f3c5366e64cac08/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67" group-title="西班牙",La 1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://camo.githubusercontent.com/de62fdd2338dd0f91656abcd58f5fba93f77766fa59287272130f4b782c72ace/68747470733a2f2f692e696d6775722e636f6d2f5a4b52326a4b722e706e67" group-title="西班牙", 24 Horas
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://camo.githubusercontent.com/de62fdd2338dd0f91656abcd58f5fba93f77766fa59287272130f4b782c72ace/68747470733a2f2f692e696d6775722e636f6d2f5a4b52326a4b722e706e67" group-title="西班牙",24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
-#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="泰國", NBT
+#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="泰國",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
-#EXTINF:-1 tvg-id="TPBS" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="泰國", TPBS
+#EXTINF:-1 tvg-id="TPBS" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="泰國",TPBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-#EXTINF:-1 tvg-id="3HD" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="泰國", 3HD
+#EXTINF:-1 tvg-id="3HD" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="泰國",3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 tvg-id="7HD" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="泰國", 7HD
+#EXTINF:-1 tvg-id="7HD" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="泰國",7HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="中國", CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="中國",CCTV4
 http://185.241.43.67:35455/gaoma/cctv4.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="中國", CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="中國",CCTV10
 http://1.itv.nctv.top:8883/gaoma/cctv10.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="中國", CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="中國",CCTV13
 http://36.105.100.208:35455/gaoma/cctv13.m3u8
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="中國", 北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="中國",北京卫视
 http://my.tmos.cn:15181/chs002.m3u8
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
 http://cdn.132.us.kg/live/fct4k/stream.m3u8
 
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="香港", 無線新聞台
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="香港",無線新聞台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港", 鳳凰資訊
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
