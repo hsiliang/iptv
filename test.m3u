@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="台灣", 三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS-新聞台
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS新聞
 http://125.227.210.55:8186/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="TVBS-NEWS" tvg-name="TVBS-NEWS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS-NEWS
