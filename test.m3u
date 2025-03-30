@@ -1,6 +1,8 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml, https://epg.112114.xyz/pp.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml"
-
+#EXTM3U x-tvg-url=https://assets.livednow.com/epg.xml
+#EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml
+#EXTM3U x-tvg-url=https://epg.112114.xyz/pp.xml
+#EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/movistarplus.es.xml
+#EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml, https://epg.112114.xyz/pp.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml"
