@@ -4,8 +4,6 @@
 #EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/movistarplus.es.xml
 #EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
 
-#EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml, https://epg.112114.xyz/pp.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml"
 
 
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="台灣", 中視新聞台
