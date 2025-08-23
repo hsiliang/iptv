@@ -31,7 +31,7 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="台灣", 緯來育樂台
 rtmp://f13h.mine.nu/sat/tv701
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="台灣", HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-icon-svg-png-download-282669.png" group-title="台灣", HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 #EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="台灣", 東森超視
