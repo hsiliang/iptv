@@ -7,22 +7,22 @@
 
 
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣", 台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://lh6.googleusercontent.com/proxy/RY1Pa0uGs2p0C9MnmoxqwaKzaeohDZI-EsYSc42HvXEMCx_LXRTHu5fcGtvvfYKJ2aaNOJvJE8SKJ0zw2Qpx" group-title="台灣", 台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣", 非凡新聞台
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://pln.com.tw/wp-content/uploads/media-reports05.png" group-title="台灣", 非凡新聞台
 rtmp://f13h.mine.nu/sat/tv581
 
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="台灣", 華視
 rtmp://f13h.mine.nu/sat/tv111
 
 #EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台灣", TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="台灣", 緯來精采
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://nettv.live/uploads/19/1-1ZZQPZ6292.jpg" group-title="台灣", 緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2.png" group-title="台灣", 緯來體育
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://i0.wp.com/img.funtop.tw/text/2016/10/161030-vl-sport/vl-sport_1.jpg" group-title="台灣", 緯來體育
 rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="台灣", 緯來日本台
@@ -31,7 +31,7 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="台灣", 緯來育樂台
 rtmp://f13h.mine.nu/sat/tv701
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="台灣", HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="台灣", HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 #EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="台灣", 東森超視
@@ -61,7 +61,7 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="國際", BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="國際", ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="國際", ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="CNA International" tvg-name="CNA International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="國際", CNA International
