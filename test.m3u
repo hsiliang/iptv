@@ -62,6 +62,9 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS-歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="台灣", TVBS-歡樂台
 http://125.227.210.55:8187/VideoInput/play.ts
 
+#EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="國際",RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" group-title="國際",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
@@ -83,8 +86,14 @@ https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="國際",EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="國際",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="國際", BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="國際",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="國際", ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
