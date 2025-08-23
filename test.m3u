@@ -5,23 +5,7 @@
 #EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
 
 
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="FTVNews.tw" group-title="台灣",民視新聞台
-https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="台灣", 三立新聞
-http://125.227.210.55:8162/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="台灣", 中視新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-
-#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="台灣", 寰宇新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS新聞
-http://125.227.210.55:8186/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="TVBS-NEWS" tvg-name="TVBS-NEWS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS-NEWS
-http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣", 台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -31,12 +15,6 @@ rtmp://f13h.mine.nu/sat/tv581
 
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
 rtmp://f13h.mine.nu/sat/tv111
-
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣", 台視
-https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣", TVBS
-http://125.227.210.55:8188/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台灣", TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -53,14 +31,8 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="台灣", 緯來育樂台
 rtmp://f13h.mine.nu/sat/tv701
 
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://assets.livednow.com/logo/緯來電影台.png" group-title="台灣", 緯來電影台
-http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="台灣", HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030633323271_63.png" group-title="台灣", CINEMAX
-http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 
 #EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="台灣", 東森超視
 rtmp://f13h.mine.nu/sat/tv331
@@ -68,20 +40,11 @@ rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://ia802309.us.archive.org/34/items/20230102_20230102_1615/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台灣", 中天娛樂台
 http://61.221.215.25:8800/hls/47/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS-歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="台灣", TVBS-歡樂台
-http://125.227.210.55:8187/VideoInput/play.ts
-
-#EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="國際",RTVE 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" group-title="國際",Telemadrid
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" group-title="國際",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" group-title="國際",France 24
-https://www.youtube.com/c/FRANCE24/live
 
 #EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" group-title="國際",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
@@ -95,14 +58,8 @@ https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="國際",EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="國際",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="國際", BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="國際",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="國際", ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -110,29 +67,11 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CNA International" tvg-name="CNA International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="國際", CNA International
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-news-24-jp.png" tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" , 日テレNEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://camo.githubusercontent.com/16f3d41647739d9fc307b70781b4bb727e4f894bb99e113e9f3c5366e64cac08/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67" group-title="西班牙", La 1
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://camo.githubusercontent.com/de62fdd2338dd0f91656abcd58f5fba93f77766fa59287272130f4b782c72ace/68747470733a2f2f692e696d6775722e636f6d2f5a4b52326a4b722e706e67" group-title="西班牙", 24 Horas
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-
-#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="泰國", NBT
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
-
-#EXTINF:-1 tvg-id="TPBS" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="泰國", TPBS
+#EXTINF:-1 tvg-id="TPBS" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="國際", TPBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-#EXTINF:-1 tvg-id="3HD" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="泰國", 3HD
+#EXTINF:-1 tvg-id="3HD" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="國際", 3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-
-#EXTINF:-1 tvg-id="7HD" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="泰國", 7HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
 
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="香港", 無線新聞台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
