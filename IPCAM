@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF:0,1. Main Left View
+rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=01&subtype=0
+#EXTINF:0,2. Main Right View
+rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=02&subtype=0
+#EXTINF:0,3. Internal Gate
+rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=03&subtype=0
+#EXTINF:0,4. Internal Wall
+rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=04&subtype=0
