@@ -5,15 +5,6 @@
 #EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
 
 
-#EXTINF:0,1. Main Left View
-rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=01&subtype=0
-#EXTINF:0,2. Main Right View
-rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=02&subtype=0
-#EXTINF:0,3. Internal Gate
-rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=03&subtype=0
-#EXTINF:0,4. Internal Wall
-rtsp://admin:2kf0119XL@114.34.190.49:85/rtsp/streaming?channel=04&subtype=0
-
 
 
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://lh6.googleusercontent.com/proxy/RY1Pa0uGs2p0C9MnmoxqwaKzaeohDZI-EsYSc42HvXEMCx_LXRTHu5fcGtvvfYKJ2aaNOJvJE8SKJ0zw2Qpx" group-title="台灣", 台視新聞台
