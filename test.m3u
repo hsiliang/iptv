@@ -5,7 +5,78 @@
 #EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
 
 
+#EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/寰宇新闻.png"  group-title="港澳台",寰宇新闻
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
 
+#EXTINF:-1  tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视新闻.png"  group-title="港澳台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+
+#EXTINF:-1  tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视新闻.png"  group-title="港澳台",华视新闻
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+
+#EXTINF:-1  tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻.png"  group-title="港澳台",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+#EXTINF:-1  tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立新闻.png"  group-title="港澳台",三立新闻
+https://tv.iill.top/4gtv/229
+
+#EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视新闻.png"  group-title="港澳台",中视新闻
+https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
+
+#EXTINF:-1  tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png"  group-title="港澳台",民视
+http://74.91.26.218:82/live/ftv.m3u8
+
+#EXTINF:-1  tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来日本.png"  group-title="港澳台",纬来日本
+https://hls.iill.top/api/wlrb/index.m3u8
+
+#EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1  tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来体育.png"  group-title="体育频道",纬来体育
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyovE6oGaC1PKnrjeaNxE0NJWRPjFClfaMW4SEVeYtCQbLhiB3WPPepMATAHfUOZlkgWW0vAwIwy5bOIXv7889x_3qi3OgGQuH6k8OeAX6HrFQ7vZhBVtcJo_VATmB9RIaebmQ4oLRHlUr70aUtC19_XJC64D_Vpx6ZcuklPt-WNukf0zYr47g_wBBsnqqxlE6w.m3u8?u=1756878715
+
+
+#EXTINF:-1  tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视菁采.png"  group-title="港澳台",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+
+#EXTINF:-1  tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视经典.png"  group-title="港澳台",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+
+#EXTINF:-1  tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png"  group-title="港澳台",台视
+rtmp://f13h.mine.nu:1935/sat/tv071
+
+#EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台灣", TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://nettv.live/uploads/19/1-1ZZQPZ6292.jpg" group-title="台灣", 緯來精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+
+#EXTINF:-1  tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立综合.png"  group-title="港澳台",三立综合
+https://tv.iill.top/4gtv/169
+
+#EXTINF:-1  tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视新闻.png"  group-title="港澳台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://visit.pts.org.tw/images/pts_mirror_A-01.png" group-title="台灣", 公視
+rtmp://f13h.mine.nu/sat/tv771
+
+#EXTINF:-1  tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS亚洲.png"  group-title="港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+
+#EXTINF:-1  tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/亚洲新闻.png"  group-title="港澳台",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-icon-svg-png-download-282669.png" group-title="台灣", HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+
+#EXTINF:-1  tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森超视.png"  group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+#EXTINF:-1  tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲.png"  group-title="港澳台",东森美洲
+https://t.freetv.fun/live/dong-sen-mei-zhou-2.m3u8
+
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://ia802309.us.archive.org/34/items/20230102_20230102_1615/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台灣", 中天娛樂台
+http://61.221.215.25:8800/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://lh6.googleusercontent.com/proxy/RY1Pa0uGs2p0C9MnmoxqwaKzaeohDZI-EsYSc42HvXEMCx_LXRTHu5fcGtvvfYKJ2aaNOJvJE8SKJ0zw2Qpx" group-title="台灣", 台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -22,40 +93,23 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="",CTS (HUA-CHI CTS) (1080p)
 rtmp://59.124.75.138:1935/sat/tv111
 
-#EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台灣", TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1  tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/半·新闻.png"  group-title="国际台",半·新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://nettv.live/uploads/19/1-1ZZQPZ6292.jpg" group-title="台灣", 緯來精采
-http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1  tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CNN.png"  group-title="国际台",CNN
+https://stream1.freetv.fun/cnn-1.m3u8
 
-
-
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://visit.pts.org.tw/images/pts_mirror_A-01.png" group-title="台灣", 公視
-rtmp://f13h.mine.nu/sat/tv771
-
-
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-icon-svg-png-download-282669.png" group-title="台灣", HBO
-http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-
-
-#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://ia802309.us.archive.org/34/items/20230102_20230102_1615/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台灣", 中天娛樂台
-http://61.221.215.25:8800/hls/47/index.m3u8
-
-
-
-#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="國際",EBS 1
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="國際",EBS 2
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/BBC.png"  group-title="国际台",BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
 #EXTINF:-1 group-title="国际",BBC News
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 
-#EXTINF:-1 tvg-id="CNA International" tvg-name="CNA International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/140?cb=20230219122811" group-title="國際", CNA International
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 
+#EXTINF:-1  tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/Discovery.png"  group-title="纪录片",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="3HD" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="國際", 3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
@@ -77,6 +131,174 @@ https://0472.org/hls/cgtnx.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1  tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png"  group-title="港澳台",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+
+#EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png"  group-title="港澳台",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+
+#EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰香港.png"  group-title="港澳台",凤凰香港
+http://r.jdshipin.com/yDoTN
+
+#EXTINF:-1  tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/RTHK32.png"  group-title="港澳台",RTHK32
+https://t.freetv.fun/live/rthk32-sg.m3u8
+
+#EXTINF:-1  tvg-name="TVB翡翠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB翡翠.png"  group-title="港澳台",TVB翡翠
+https://o11.163189.xyz/stream/tvb/fct/
+
+#EXTINF:-1  tvg-name="TVB明珠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB明珠.png"  group-title="港澳台",TVB明珠
+https://o11.163189.xyz/stream/tvb/mzt/
+
+#EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB星河.png"  group-title="港澳台",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+#EXTINF:-1  tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB无线新闻.png"  group-title="港澳台",TVB无线新闻
+http://74.91.26.218:82/live/inews.m3u8
+
+#EXTINF:-1  tvg-name="Now新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/Now新闻.png"  group-title="港澳台",Now新闻
+https://cdn.163189.xyz/163189/now
+
+#EXTINF:-1  tvg-name="Now财经" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/Now财经.png"  group-title="港澳台",Now财经
+http://hls.168.us.kg/u/333/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png"  group-title="央视频道",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png"  group-title="央视频道",CCTV2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png"  group-title="央视频道",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png"  group-title="央视频道",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png"  group-title="央视频道",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png"  group-title="央视频道",CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png"  group-title="央视频道",CCTV6
+https://iptv.catvod.com/live.php?id=CCTV6&line=11
+
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png"  group-title="央视频道",CCTV7
+https://t.freetv.fun/live/cctv7-3.m3u8
+
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png"  group-title="央视频道",CCTV8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png"  group-title="央视频道",CCTV9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png"  group-title="央视频道",CCTV10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png"  group-title="央视频道",CCTV11
+http://69.30.246.194/live/cctv11.m3u8
+
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png"  group-title="央视频道",CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png"  group-title="央视频道",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png"  group-title="央视频道",CCTV15
+http://69.30.246.194/live/cctv15.m3u8
+
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png"  group-title="央视频道",CCTV16
+http://69.30.246.194/live/cctv16.m3u8
+
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png"  group-title="央视频道",CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png"  group-title="央视频道",CCTV风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV兵器科技" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV兵器科技.png"  group-title="央视频道",CCTV兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png"  group-title="央视频道",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云足球.png"  group-title="央视频道",CCTV风云足球
+http://202.102.201.244:40022/rtp/238.1.79.57:4592
+
+#EXTINF:-1  tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png"  group-title="央视频道",CCTV高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png"  group-title="央视频道",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV风云音乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云音乐.png"  group-title="央视频道",CCTV风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV女性时尚.png"  group-title="央视频道",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV怀旧剧场.png"  group-title="央视频道",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV卫生健康.png"  group-title="央视频道",CCTV卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV电视指南.png"  group-title="央视频道",CCTV电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png"  group-title="央视频道",CCTV4K
+https://stream1.freetv.fun/cctv4k-2.ctv
+
+#EXTINF:-1  tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png"  group-title="央视频道",CCTV8K
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png"  group-title="卫视频道",湖南卫视
+http://69.30.246.194/live/hnws.m3u8
+
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png"  group-title="卫视频道",东方卫视
+http://69.30.246.194/live/dfws.m3u8
+
+#EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视.png"  group-title="卫视频道",江苏卫视
+http://69.30.246.194/live/jsws.m3u8
+
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png"  group-title="卫视频道",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视.png"  group-title="卫视频道",北京卫视
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+
+#EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png"  group-title="北京频道",北京新闻
+http://114.242.62.109:888/hls/25/index.m3u8
+
+#EXTINF:-1  tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png"  group-title="北京频道",北京生活
+http://114.242.62.109:888/hls/23/index.m3u8
+
+#EXTINF:-1  tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png"  group-title="北京频道",北京财经
+http://114.242.62.109:888/hls/21/index.m3u8
+
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视.png"  group-title="卫视频道",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+
+#EXTINF:-1  tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/福建海峡卫视.png"  group-title="福建频道",福建海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k28Kc3o.png" tvg-id="Good",Good
 https://live.streamingfast.net/osmflivech1.m3u8
