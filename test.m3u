@@ -1,8 +1,9 @@
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml
 #EXTM3U x-tvg-url=https://assets.livednow.com/epg.xml
 #EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml
 #EXTM3U x-tvg-url=https://epg.112114.xyz/pp.xml
-#EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/movistarplus.es.xml
-#EXTM3U x-tvg-url=https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
+
+
 
 
 #EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/寰宇新闻.png"  group-title="港澳台",寰宇新闻
