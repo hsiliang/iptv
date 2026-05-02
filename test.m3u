@@ -314,3 +314,58 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 #EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
+
+#EXTINF:-1 radio="true" tvg-name="北京新闻广播" tvg-logo="https://radio.0472.org/?id=353&logo" group-title="北京",北京新闻广播
+https://radio.0472.org/?id=353
+#EXTINF:-1 radio="true" tvg-name="北京交通广播" tvg-logo="https://radio.0472.org/?id=354&logo" group-title="北京",北京交通广播
+https://radio.0472.org/?id=354
+#EXTINF:-1 radio="true" tvg-name="北京文艺广播" tvg-logo="https://radio.0472.org/?id=355&logo" group-title="北京",北京文艺广播
+https://radio.0472.org/?id=355
+#EXTINF:-1 radio="true" tvg-name="北京音乐广播" tvg-logo="https://radio.0472.org/?id=356&logo" group-title="北京",北京音乐广播
+https://radio.0472.org/?id=356
+#EXTINF:-1 radio="true" tvg-name="北京城市广播副中心之声" tvg-logo="https://radio.0472.org/?id=357&logo" group-title="北京",北京城市广播副中心之声
+https://radio.0472.org/?id=357
+#EXTINF:-1 radio="true" tvg-name="北京体育广播" tvg-logo="https://radio.0472.org/?id=359&logo" group-title="北京",北京体育广播
+https://radio.0472.org/?id=359
+#EXTINF:-1 radio="true" tvg-name="北京969经典调频" tvg-logo="https://radio.0472.org/?id=1254&logo" group-title="北京",北京969经典调频
+https://radio.0472.org/?id=1254
+#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声
+https://radio.0472.org/?id=639
+#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声
+https://radio.0472.org/?id=640
+#EXTINF:-1 radio="true" tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="央广",环球资讯广播
+https://radio.0472.org/?id=692
+#EXTINF:-1 radio="true" tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="央广",音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 radio="true" tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="央广",中国交通广播
+https://radio.0472.org/?id=653
+#EXTINF:-1 radio="true" tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="央广",文艺之声
+https://radio.0472.org/?id=648
+#EXTINF:-1 radio="true" tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="央广",大湾区之声
+https://radio.0472.org/?id=645
+#EXTINF:-1 radio="true" tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="央广",经典音乐广播
+https://radio.0472.org/?id=642
+#EXTINF:-1 radio="true" tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="央广",台海之声
+https://radio.0472.org/?id=643
+#EXTINF:-1 radio="true" tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="央广",神州之声
+https://radio.0472.org/?id=644
+#EXTINF:-1 radio="true" tvg-name="RTHK1" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK1
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="RTHK2" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="RTHK3" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="RTHK4" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="RTHK5" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK5
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="RTHK普通话" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK普通话
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="法国国际广播电台" tvg-logo="https://live.fanmingming.cn/radio/rfi.png" group-title="境外广播",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 radio="true" tvg-name="美国之音" tvg-logo="https://live.fanmingming.cn/radio/美国之音.png" group-title="境外广播",美国之音
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="自由亚洲电台" tvg-logo="https://live.fanmingming.cn/radio/自由亚洲电台.png" group-title="境外广播",自由亚洲电台
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="中广新闻网" tvg-logo="https://live.fanmingming.cn/radio/中广新闻网.png" group-title="境外广播",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
